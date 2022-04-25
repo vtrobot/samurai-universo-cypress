@@ -2,6 +2,13 @@
 
 "baseUrl":"http://localhost:3000",
 "viewportWidth":1440,
-"viewportHeight":900
+"viewportHeight":900,
+"dbConfig":{
+    "host":"ruby.db.elephantsql.com",
+    "user":"ppbfuwaa",
+    "password":"Ea1lefCwYqBAUfaCwxnZ5BkDzHCLw3rd",
+    "database":"ppbfuwaa",
+    "port":5432
+}
 
 }
