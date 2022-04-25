@@ -143,7 +143,7 @@ context("quando a senha é muito curta", function () {
   });
 });
 
-context.only('quando nao preencho nenhum dos campos', function(){
+context('quando nao preencho nenhum dos campos', function(){
 
   const alertMessages = [
     'Nome é obrigatório',
